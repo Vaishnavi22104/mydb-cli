@@ -1,0 +1,8 @@
+venv
+.mydb
+__pycache__
+migrations/*
+!migrations/.gitkeep
+.testtest.py
+exports/*
+!exports/.gitkeep
